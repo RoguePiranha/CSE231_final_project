@@ -79,7 +79,8 @@ Now it's your turn! Write a function that takes a string as input and returns Tr
 
 ## - Possible Solution
 
->!
+>! spoiler
+
 ```python
 def is_palindrome(string):
     stack = []
@@ -90,4 +91,3 @@ def is_palindrome(string):
             return False
     return True
 ```
->!
