@@ -1,5 +1,15 @@
 # STACKS
 
+## Table of Contents
+
+-[Introduction](#-Introduction)
+-[Understanding Stacks](#-Understanding-Stacks)
+-[Implementing a Stack in Python](#-Implementing-a-Stack-in-Python)
+-[Stack Operations (Push, Pop, Peek)](#-Stack-Operations-(Push,-Pop,-Peek))
+-[Example](#-Example)
+-[Problem to Solve](#-Problem-to-Solve)
+-[Possible Solution](#-Possible-Solution)
+
 ## - Introduction
 
 A Stack is a linear data structure that follows a particular order in which operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). Mainly the following three basic operations are performed in the stack:
