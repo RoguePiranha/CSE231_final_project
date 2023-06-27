@@ -1,16 +1,14 @@
-# STACKS
+# STACKS <!-- omit in toc -->
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
-- [STACKS](#stacks)
-  - [Table of Contents](#table-of-contents)
-  - [- Introduction](#--introduction)
-  - [- Understanding Stacks](#--understanding-stacks)
-  - [- Implementing a Stack in Python](#--implementing-a-stack-in-python)
-  - [- Stack Operations (Push, Pop, Peek)](#--stack-operations-push-pop-peek)
-  - [- Example](#--example)
-  - [- Problem to Solve](#--problem-to-solve)
-  - [- Possible Solution](#--possible-solution)
+- [- Introduction](#--introduction)
+- [- Understanding Stacks](#--understanding-stacks)
+- [- Implementing a Stack in Python](#--implementing-a-stack-in-python)
+- [- Stack Operations (Push, Pop, Peek)](#--stack-operations-push-pop-peek)
+- [- Example](#--example)
+- [- Problem to Solve](#--problem-to-solve)
+- [- Possible Solution](#--possible-solution)
 
 ## - Introduction
 
