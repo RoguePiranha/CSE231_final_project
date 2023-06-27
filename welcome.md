@@ -1,6 +1,11 @@
 # Python Data Structures Tutorial
 
-## WELCOME
+## Table of Contents
+
+- [Stacks](stacks.md)
+- [Sets](sets.md)
+- [Trees](trees.md)
+- [Conclusion](conclusion.md)
 
 ### - Introduction
 
