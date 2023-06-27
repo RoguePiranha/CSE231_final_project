@@ -2,15 +2,15 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [- Introduction](#--introduction)
-- [- Understanding Stacks](#--understanding-stacks)
-- [- Implementing a Stack in Python](#--implementing-a-stack-in-python)
-- [- Stack Operations (Push, Pop, Peek)](#--stack-operations-push-pop-peek)
-- [- Example](#--example)
-- [- Problem to Solve](#--problem-to-solve)
-- [- Possible Solution](#--possible-solution)
+- [Introduction](#introduction)
+- [Understanding Stacks](#understanding-stacks)
+- [Implementing a Stack in Python](#implementing-a-stack-in-python)
+- [Stack Operations (Push, Pop, Peek)](#stack-operations-push-pop-peek)
+- [Example](#example)
+- [Problem to Solve](#problem-to-solve)
+- [Possible Solution](#possible-solution)
 
-## - Introduction
+## Introduction
 
 A Stack is a linear data structure that follows a particular order in which operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). Mainly the following three basic operations are performed in the stack:
 
@@ -19,11 +19,11 @@ A Stack is a linear data structure that follows a particular order in which oper
 - Peek or Top: Returns the top element of the stack.
 - isEmpty: Returns true if the stack is empty, else false.
 
-## - Understanding Stacks
+## Understanding Stacks
 
 Think of a stack of books. You can only take a book from the top of the stack (pop operation), and when you add a new book, it always goes on top (push operation). This is the principle of a Stack in programming as well.
 
-## - Implementing a Stack in Python
+## Implementing a Stack in Python
 
 In Python, we can use the built-in data type 'list' to simulate a Stack. Here's how:
 
@@ -41,7 +41,7 @@ print(stack.pop())  # prints: 'B'
 print(stack.pop())  # prints: 'A'
 ```
 
-## - Stack Operations (Push, Pop, Peek)
+## Stack Operations (Push, Pop, Peek)
 
 In the above example, we used the 'append' method for the push operation and 'pop' method for the pop operation. To implement the peek operation (get the top item of the stack without removing it), we can use list indexing:
 
@@ -51,7 +51,7 @@ stack.append('B')
 print(stack[-1])  # prints: 'B'
 ```
 
-## - Example
+## Example
 
 Let's use a stack to check for balanced parentheses in an expression:
 
@@ -83,11 +83,11 @@ print(is_balanced("(a[b]{c})"))  # prints: True
 print(is_balanced("(a[b]{c)"))  # prints: False
 ```
 
-## - Problem to Solve
+## Problem to Solve
 
 Now it's your turn! Write a function that takes a string as input and returns True if the string is a palindrome and False otherwise. A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
 
-## - Possible Solution
+## Possible Solution
 
 ```python
 def is_palindrome(string):
