@@ -79,7 +79,7 @@ Now it's your turn! Write a function that takes a string as input and returns Tr
 
 ## - Possible Solution
 
-```python
+>!```python
 >! def is_palindrome(string):
 >!   stack = []
 >!   for char in string:
@@ -88,4 +88,4 @@ Now it's your turn! Write a function that takes a string as input and returns Tr
 >!       if char != stack.pop():
 >!           return False
 >!   return True
-```
+>!```
