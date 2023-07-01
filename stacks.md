@@ -21,7 +21,7 @@ A Stack is a linear data structure that follows a particular order in which oper
 
 ## Understanding Stacks
 
-![stack of books](/images/bookStack.png)
+![stack of books](/images/booksStack.png)
 
 Think of a stack of books. You can only take a book from the top of the stack (pop operation), and when you add a new book, it always goes on top (push operation). This is the principle of a Stack in programming as well.
 
