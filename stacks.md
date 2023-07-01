@@ -21,6 +21,8 @@ A Stack is a linear data structure that follows a particular order in which oper
 
 ## Understanding Stacks
 
+![stack of books](/images/bookStack.png)
+
 Think of a stack of books. You can only take a book from the top of the stack (pop operation), and when you add a new book, it always goes on top (push operation). This is the principle of a Stack in programming as well.
 
 ## Implementing a Stack in Python
@@ -42,6 +44,8 @@ print(stack.pop())  # prints: 'A'
 ```
 
 ## Stack Operations (Push, Pop, Peek)
+
+![stack operations](images/pushPopPeek.png)
 
 In the above example, we used the 'append' method for the push operation and 'pop' method for the pop operation. To implement the peek operation (get the top item of the stack without removing it), we can use list indexing:
 
