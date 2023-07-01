@@ -35,6 +35,8 @@ for x in fruits:
 
 ## Set Operations (Union, Intersection, Difference)
 
+![diagram of set operations](/images/sets_uid.png)
+
 Sets can perform operations such as union and intersection:
 
 ``` python
