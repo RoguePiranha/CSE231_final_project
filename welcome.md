@@ -19,7 +19,7 @@ Welcome to this Python Data Structures Tutorial! In this tutorial, we will explo
 If you have any questions or need further clarification as you go through this tutorial, feel free to reach out. I'm here to help!
 
 <p align="center">
-<button>
-  <a href="stacks.md">Begin Tutorial: Stacks</a>
+<button style="background-color: #3776AB; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
+  <a href="stacks.md" style="color: white; text-decoration: none;">Begin Tutorial: Stacks</a>
 </button>
 </p>
