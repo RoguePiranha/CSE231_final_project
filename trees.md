@@ -17,6 +17,8 @@
 
 Trees are a type of data structure that, like linked lists, connect nodes together using pointers. However, unlike linked lists, a tree can connect to multiple different nodes. In this tutorial we'll go over the basics of trees, how to implement them in Python, and how to traverse them.
 
+![binary search tree example](/images/binary_tree.png)
+
 ## Understanding Trees (Binary Trees)
 
 A binary tree is a tree that links to no more than two other nodes. The top node is called the root node. The nodes that connect to no other nodes are called leaf nodes. A node that has connected nodes is called a parent node. The nodes connected to the parent are called child nodes. The nodes to the left and right of any parent node form a subtree. There is always only one root node. It is common for child nodes to also point back up to the parent node, similar to a linked list.
