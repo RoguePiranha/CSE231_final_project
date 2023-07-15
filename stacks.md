@@ -104,3 +104,7 @@ def is_palindrome(string):
             return False
     return True
 ```
+
+<p align="center">
+  <a href="welcome.md">Back to Home</a> &nbsp; | &nbsp; <a href="sets.md">Next: Sets</a>
+</p>
