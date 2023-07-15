@@ -36,7 +36,7 @@ for x in fruits:
 ## Set Operations (Union, Intersection, Difference)
 
 <p align="center">
-![diagram of set operations](/images/sets_uid.png)</p>
+<img src="/images/sets_uid.png" alt="Venn diagram of union, intersection, and difference style sets"></p>
 <p align="right"><small><em><sub>Image credit: AJ201, Stack Overflow</sub></em></small></p>
 
 Sets can perform operations such as union and intersection:
