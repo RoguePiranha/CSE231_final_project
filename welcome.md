@@ -12,6 +12,7 @@
 Welcome to this Python Data Structures Tutorial! In this tutorial, we will explore some of the fundamental data structures in Python, specifically focusing on Stacks, Sets, and Trees. Whether you're a beginner just starting out with Python or an experienced developer looking to brush up on your data structures, this tutorial has something for you.
 
 ![Python Data Structures Tutorial](/images/DS_Tutorial.png)
+<p align="right"><small><em><sub>Image credit: Andrew Swayze</sub></em></small></p>
 
 ### - Contact
 
