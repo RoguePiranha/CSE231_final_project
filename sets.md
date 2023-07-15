@@ -89,3 +89,7 @@ intersection = set1.intersection(set2)
 
 print(intersection)  # prints: {8, 2, 4, 6}
 ```
+
+<p align="center">
+  <a href="welcome.md">Back to Home</a> &nbsp; | &nbsp; <a href="trees.md">Next: Trees</a>
+</p>
