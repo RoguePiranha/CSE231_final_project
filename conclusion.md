@@ -10,7 +10,7 @@ In the Sets section, we learned about the properties of sets and how they are us
 
 In the Trees section, we learned about the properties of binary trees and how to implement a binary tree in Python. We also learned about tree traversal methods such as in-order, pre-order, and post-order, and how to use a binary search tree to find the second largest number in the tree.
 
-<img src="images/theMoreYouKnow.jpg" alt="The More You Know meme" width="300">
+<img src="images/theMoreYouKnow.jpg" alt="The More You Know meme" width="400">
 <small><em><sub>Image credit: NBC</sub></em></small>
 
 Remember, data structures are a fundamental part of computer science and are essential for solving complex problems. The more you understand about data structures, the better equipped you will be to write efficient and effective code.
