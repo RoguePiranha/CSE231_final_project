@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Trees are a type of data structure that, like linked lists, connect nodes together using pointers. However, unlike linked lists, a tree can connect to multiple different nodes. We will be discussing binary trees, binary search trees, and balanced binary search trees in this tutorial.
+Trees are a type of data structure that, like linked lists, connect nodes together using pointers. However, unlike linked lists, a tree can connect to multiple different nodes. In this tutorial we'll go over the basics of trees, how to implement them in Python, and how to traverse them.
 
 ## Understanding Trees (Binary Trees)
 
