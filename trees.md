@@ -22,7 +22,7 @@ Trees are a type of data structure that, like linked lists, connect nodes togeth
 A binary tree is a tree that links to no more than two other nodes. The top node is called the root node. The nodes that connect to no other nodes are called leaf nodes. A node that has connected nodes is called a parent node. The nodes connected to the parent are called child nodes. The nodes to the left and right of any parent node form a subtree. There is always only one root node. It is common for child nodes to also point back up to the parent node, similar to a linked list.
 
 ![Visualization of Basic Terminology of Binary Search Trees.](/images/binary_tree.png)
-<div style="text-align: right;"><small><em><sub>Image credit: Towards Data Science</sub></em></small></div>
+<p align="right"><small><em><sub>Image credit: Towards Data Science</sub></em></small></p>
 
 ## Implementing a Tree in Python
 
